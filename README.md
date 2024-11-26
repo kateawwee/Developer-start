@@ -14,4 +14,3 @@ I'm a student at thammasat secondary school
 
 ## 🛠 Skills
 Javascript, HTML, CSS, 
-
